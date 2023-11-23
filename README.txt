@@ -35,8 +35,5 @@ Function Explanation:
         + create a new databse named Assignment4_University
         + Establish a connection to the new databse
 
-NOTE: 
-Some simple query will be in query folder. However, query that use params of a function 
-
 Video demonstration: 
     https://youtu.be/SNg7OVoMx4A
